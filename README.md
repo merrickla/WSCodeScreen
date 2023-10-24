@@ -8,7 +8,7 @@ Test case:
 4. Add the last of found items to Cart.
 5. Empty Cart.
 
-Thank you so much for the chance to work through this assignment. Hopefully it's to your liking, as functions as intended. 
+Thank you so much for the chance to work through this assignment. Hopefully it's to your liking, and functions as intended. 
 It uses Maven, JUnit, Selenium, and  WebDriver Manager. The actual test itself is located in SeleniumTest, and headless mode can be accessed via BaseDriver. 
 Soft asserts and detailed logging were not added due to time constraints (and ideally special Functions would have been broken out away from regular Functions), 
 but I think overall this represents a relatively decent view of a basic up-and-working repo.
